@@ -1,2 +1,2 @@
 # testfiles
-These are files with null bytes to test file download
+These are files with null byte or pattern to test file download
