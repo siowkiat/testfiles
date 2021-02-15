@@ -1,0 +1,8 @@
+{
+    "name" : "Christian",
+    "friends" : ["Aaron", "Mikey"],
+    "job" : {
+        "company" : "Big Nerd Ranch",
+        "title" : "Senior Nerd"
+    }
+}
